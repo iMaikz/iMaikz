@@ -1,0 +1,1 @@
+Olá, sou Khevynn Sá, iniciante no ramo de programação com experiência em C# e front-end, busco cada vez melhorar mais minhas capacidades de programação, caso tenha alguma dica ou algum projeto que possa me passar onde consigo evoluir, agradeço que entre em contato no meu instagram "@tsuki.winter"
